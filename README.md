@@ -54,6 +54,3 @@ The project includes a robust suite of unit tests located in the `test/` folder.
 1.  Run `GameTest.java` to test game flow and winning conditions.
 2.  Run `BoardTest.java` to test grid logic and valid moves.
 3.  Run `GeometryTest.java` to verify UI calculations.
-
-## Authors
-* [Your Name] - University Project
